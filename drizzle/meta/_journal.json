@@ -15,6 +15,20 @@
       "when": 1717417186125,
       "tag": "0001_mixed_vermin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717925075965,
+      "tag": "0002_overrated_nico_minoru",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1717932688665,
+      "tag": "0003_harsh_photon",
+      "breakpoints": true
     }
   ]
 }
